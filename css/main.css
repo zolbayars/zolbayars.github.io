@@ -12,7 +12,8 @@
 
 html {
     color: #222;
-    font-size: 1em;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
     line-height: 1.4;
 }
 
@@ -97,9 +98,6 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
- body {
-   font-family: 'Roboto Slab', serif;
- }
 
 
 
