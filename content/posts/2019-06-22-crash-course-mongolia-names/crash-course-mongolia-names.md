@@ -9,9 +9,9 @@ tags: ['Crash Course Mongolia', 'Mongolia']
 
 _**From an average guy’s perspective**_
 
-_Please note, this series is solely based on my experience as a young man living in Mongolia. If you want to read official and more sophisticated content about Mongolia, please head to the _[_UB Post_](http://ubpost.mongolnews.mn/)_, _[_GoGo Mongolia_](http://mongolia.gogo.mn/)_ or _[_MONTSAME._](https://montsame.mn/en/)
+_Please note, this series is solely based on my experience as a young man living in Mongolia. If you want to read official and more sophisticated content about Mongolia, please head to the _[_UB Post_](https://theubposts.com/)_, _[_GoGo Mongolia_](http://mongolia.gogo.mn/)_ or _[_MONTSAME._](https://montsame.mn/en/)
 
-Naming tradition in Mongolia is quite different than its neighbors and western countries. When you see names like Christopher Nolan and Jonathan Nolan, you might wonder if they are somewhat related or not. But when you see names like O.Bat-Ulzii and B.Tamir, you have no idea that they are actually a father and the son.
+Naming tradition in Mongolia is quite different than its neighbors and western countries. When you see names like Christopher Nolan and Jonathan Nolan, you might wonder if they are somewhat related or not. But when you see names like O.Bat-Ulzii and B.Tamir, you have no idea that they are actually a father and son.
 
 ## The naming "convention"
 
@@ -21,11 +21,11 @@ Here I chose the famous Mongolian writer [Ayurzana.G](http://ayurzana.mn/)'s nam
 
 ## What happened to our surnames?
 
-Most of us adapted "Borjigon" as our family name after the democratic revolution much like many Koreans adapted prestigious "Kim" as their surname during the Japanese occupation. Though lost all of its _mojos_ now, "Khiad Borjigon" was a royal family name of the Genghis Khan..
+Most of us adapted ["Borjigon"](https://en.wikipedia.org/wiki/Borjigin) as our family name after the democratic revolution much like many Koreans adapted prestigious ["Kim"](https://en.wikipedia.org/wiki/Kim_(Korean_surname)) as their surname during the Japanese occupation. Though lost all of its _mojos_ now, "Khiad Borjigon" was a royal family name of the Genghis Khan..
 
-Sadly, we don't use our family names as much as I would like. Everyone would call you by your first name, even they were complete strangers. But the family members and close acquaintances would call each other by their nickname or short name. For example, my friends call me _Zolo_ which is one of the most common short names among both (or more) sexes.
+Sadly, we don't use our family names as much as I would like. Everyone would call you by your first name, even when they were complete strangers. But the family members and close acquaintances would call each other by their nicknames or shortened names. For example, my friends call me _Zolo_ which is one of the most common short name among both sexes.
 
-People would call you by your full name like _Zolbayar Bayarsaikhan_ only in official situations. And your close friends or family might call you like that if you piss them off.
+People would call you by your full name like _Zolbayar Bayarsaikhan_ only in official situations. And your close friends or family might call you like that if you piss them off enough.
 
 ## The Most Common Names in Mongolia
 
